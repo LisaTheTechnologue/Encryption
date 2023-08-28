@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="org.secure.echo.util.AESUtil"/>
+    <fullyQualifiedTypeName name="org.bouncycastle.crypto.params.RSAKeyParameters"/>
+    <fullyQualifiedTypeName name="main.java.org.rsa.echo.util.RSAUtil"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="javax.crypto.SecretKey"/>
+    <fullyQualifiedTypeName name="org.simple.mail.util.Response"/>
+    <fullyQualifiedTypeName name="main.java.org.simple.mail.util.Response"/>
+    <fullyQualifiedTypeName name="org.bouncycastle.util.encoders.Encoder"/>
+    <fullyQualifiedTypeName name="java.beans.Encoder"/>
+    <fullyQualifiedTypeName name="java.security.SecureRandom"/>
+    <fullyQualifiedTypeName name="java.util.Base64.Encoder"/>
+    <fullyQualifiedTypeName name="java.util.Base64"/>
+    <fullyQualifiedTypeName name="org.signature.forward.util.SignatureUtil"/>
+    <fullyQualifiedTypeName name="main.java.org.simple.mail.util.Mail"/>
+    <fullyQualifiedTypeName name="java.security.spec.RSAPrivateCrtKeySpec"/>
+    <fullyQualifiedTypeName name="javax.sound.sampled.AudioFormat.Encoding"/>
+    <fullyQualifiedTypeName name="javax.crypto.spec.SecretKeySpec"/>
+</qualifiedTypeNameHistroy>
